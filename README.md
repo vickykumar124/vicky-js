@@ -1,0 +1,2 @@
+# vicky-js
+learning javascript
